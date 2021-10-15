@@ -1,7 +1,6 @@
-
 {
-	"ip":"ult1.falix.gg",
-	"port": "39573",
-	"name": "[BOTZ] KandangBotx",
+	"ip":"KandangBotx.aternos.me",
+	"port": "25565",
+	"name": "KandangBotx",
 	"auto-night-skip":"false"
 }
